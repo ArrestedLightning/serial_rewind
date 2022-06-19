@@ -1,0 +1,4 @@
+# Portboard DT
+![Portboard DT PCB Render](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/portboard_dt_render.jpg)
+
+This is a simple breakout board originally designed for "desktop" machines (hence the name).  However, I believe this board is also the correct form factor for certain iBook G3 models, and may be useful for others as well.  The intention was for this to be useful for both the Mirrored Drive Door (MDD) as well as earlier G4 desktop machines, however, their stock modem brackets are slightly different in a way that apparently makes this difficult.  I'm still working on a solution for this.

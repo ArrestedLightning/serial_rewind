@@ -1,0 +1,4 @@
+# Portboard FFC
+![Portboard FFC PCB Render](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/portboard_ffc_render.jpg)
+
+This is a simple breakout board designed to use a a flat-flex cable for connection to the main board.  This is not designed to fit in any specific machine; instead, the intention was it could be used on a PCI bracket.  (A 3D-printed mounting bracket would be required, but has not been designed yet.)  I would generally recommend using one of the machine-specfic port breakouts instead when possible, but removing the original modem port non-destructively is not the most straightforward on some machines.  A PCI bracket may be preferred for users who want to keep their machines as close to stock as possible.

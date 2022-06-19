@@ -1,0 +1,4 @@
+# Portboard Ribbon
+![Portboard Ribbon PCB Render](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/portboard_ribbon_render.jpg)
+
+This is a simple breakout board designed to use a pin header connection to a IDC connector on a ribbon cable.  This is not designed to fit in any specific machine; instead, the intention was it could be used on a PCI bracket.  (A 3D-printed mounting bracket would be required, but has not been designed yet.)  I would generally recommend using one of the machine-specfic port breakouts instead when possible, but removing the original modem port non-destructively is not the most straightforward on some machines.  A PCI bracket may be preferred for users who want to keep their machines as close to stock as possible.

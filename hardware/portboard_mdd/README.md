@@ -1,0 +1,7 @@
+# Portboard MDD
+![Portboard MDD PCB Render](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/portboard_mdd_render.jpg)
+
+This is a simple breakout board designed specifically for the Mirrored Drive Door (MDD) Power Mac G4.  This was an experiment to see if there was an easy way to take advantage of the existing mounting points in the MDD to design a PCB-only replacement for the modem port.  However, it didn't end up being a great solution.  There is only one usable mounting hole built into the case, and the board tends to rotate when plugging in a serial device. I wasn't able to find a great way to anchor the other side of the board besides using a zip tie.  The stock modem port bracket has tabs that lock into the case, but they are too small to realistically 3D print a replacement.  I also had to use a washer to space the board up to the right height.
+Given that the stock modem port bracket is reversible to blank off the port if no modem was originally included, I believe that all MDD machines came with a usable bracket.  Therefore, this board is probably of limited use in the vast majority of cases.  The optimum solution going forward will probably be to make an updated portboard_dt design which supports the use of the stock modem bracket.
+
+![Portboard MDD PCB Photo](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/portboard_mdd_installed.jpg)

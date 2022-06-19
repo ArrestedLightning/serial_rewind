@@ -7,7 +7,7 @@ The goal of this project is to eventually support a wide variety of PowerPC Macs
 
 |Board|Description|Status|
 |-----|-----------|------|
-|d1_g3|Main board ("Dash 1" interface) for tray load iMac G3 and B&w Power Mac G3|Mechanical drawing of board in progress, reverse engineering of schematic not yet started.|
+|d1_g3|Main board ("Dash 1" interface) for tray load iMac G3, B&W Power Mac G3, and PCI Graphics Power Mac G4|Mechanical drawing of board in progress, reverse engineering of schematic not yet started.|
 |dash2|Main board ("Dash 2" interface) for a wide variety of Macs: Slot load iMac G3, some iBooks, PowerBook G3, Power Mac G4 & Cube.  All machines except iMac G3 and Cube require an additional board to bring the port out.|Working.  Tested on G4 Cube and G4 MDD.|
 |main_mini|Main board for Mac Mini G4, eMac G4, possibly others. | Pinout reverse engineered, schematic in progress. |
 |portboard_dt|Port breakout board.  Originally intended for G4 towers.  I believe it would also fit in the iBook G3, but this is not tested. | Electrically functional, layout is a work-in-progress.  The goal was to support both the MDD and earlier G4 machines with the same board, but I don't know if that will be possible. |
