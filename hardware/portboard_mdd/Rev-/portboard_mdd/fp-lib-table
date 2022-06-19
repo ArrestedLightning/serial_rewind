@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Logo)(type KiCad)(uri "${KIPRJMOD}/../../../dash2/Rev A/serial_rewind_d2/Logo")(options "")(descr ""))
+)

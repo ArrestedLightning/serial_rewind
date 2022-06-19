@@ -1,0 +1,2 @@
+Replace FFC connector with footprint for one that JLC stocks.
+Move FFC connector away from 0.1" header.

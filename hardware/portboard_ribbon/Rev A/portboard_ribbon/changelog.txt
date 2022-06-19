@@ -1,0 +1,2 @@
+Rev - to Rev A
+  Changed connector pinout to match main board

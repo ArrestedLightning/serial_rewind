@@ -1,0 +1,9 @@
+Rev - to Rev A:
+  Changed 10-pin header to male version (physical pinout stays the same)
+  Flipped mini-DIN connector to back side of board
+  Slight change to logo
+  Changed default jumper settings to use -12V rail
+  Added DIP footprint for MAX216CPN
+  Changed default jumper stuffing
+  Added inverter on standby line
+
