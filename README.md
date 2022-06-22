@@ -10,6 +10,5 @@ This project is a work-in-progress.  Any use of the files here is at your own ri
 
 The goal is to support most PowerPC G3 and G4 machines.  See the README file in the hardware directory for more information on the status of each variant.
 
-![Serial Rewind Board Top Picture](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/d2_board_top.jpg)
+![Serial Rewind Board Picture](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/d2_board_top_bottom.jpg)
 
-![Serial Rewind Board Bottom Picture](https://github.com/ArrestedLightning/serial_rewind/blob/main/docs/d2_board_bottom.jpg)
